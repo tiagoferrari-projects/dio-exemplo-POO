@@ -1,0 +1,14 @@
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\bin\Debug\net7.0\dio-exemplo-POO.exe
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\bin\Debug\net7.0\dio-exemplo-POO.deps.json
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\bin\Debug\net7.0\dio-exemplo-POO.runtimeconfig.json
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\bin\Debug\net7.0\dio-exemplo-POO.dll
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\bin\Debug\net7.0\dio-exemplo-POO.pdb
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\obj\Debug\net7.0\dio-exemplo-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\obj\Debug\net7.0\dio-exemplo-POO.AssemblyInfoInputs.cache
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\obj\Debug\net7.0\dio-exemplo-POO.AssemblyInfo.cs
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\obj\Debug\net7.0\dio-exemplo-POO.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\obj\Debug\net7.0\dio-exemplo-POO.dll
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\obj\Debug\net7.0\refint\dio-exemplo-POO.dll
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\obj\Debug\net7.0\dio-exemplo-POO.pdb
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\obj\Debug\net7.0\dio-exemplo-POO.genruntimeconfig.cache
+C:\Users\Tiago Ferrari\Documents\dio-exemplo-POO\obj\Debug\net7.0\ref\dio-exemplo-POO.dll

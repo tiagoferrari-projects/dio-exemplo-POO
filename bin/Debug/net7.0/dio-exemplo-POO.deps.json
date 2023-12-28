@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "dio-exemplo-POO/1.0.0": {
+        "runtime": {
+          "dio-exemplo-POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dio-exemplo-POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
